@@ -70,7 +70,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  RegisterNumber: 212223220121
 
  ## PROGRAM
- ![Screenshot 2024-03-13 153354](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/91cd9c06-dc03-4c8c-9aca-5f9e3eab0189)
+ ![Screenshot 2024-04-10 123112](https://github.com/karthiksec/study-of-basic-gates/assets/147473368/559c1ea5-6bbf-4416-8823-cde41d8dd5c7)
+
 
 ## Logic symbol & Truthtable
 ![Screenshot 2024-03-13 153758](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/f9705d15-097d-41f0-938e-727ac8c817fe)
@@ -79,7 +80,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![Screenshot 2024-03-13 152531](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/523d3d1f-416e-46fc-b087-8e2e92053a69)
 
 ## Output:
-![Screenshot 2024-03-13 153234](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/f207de9e-70e8-480c-805b-7bba6eba26d7)
+![Screenshot 2024-04-10 123051](https://github.com/karthiksec/study-of-basic-gates/assets/147473368/bbc307ad-2e93-4804-8cf7-6790d642b689)
 
 ## Result: 
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
